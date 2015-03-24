@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<configuration state="Georgia">
+  <orderLimits>
+    <item PartNumber="872-AX">
+      <!-- TODO: call client to get details for this part number -->
+    </item>
+  </orderLimits>
+</configuration>
+
